@@ -1,0 +1,17 @@
+{
+  "name": "henryisbullied",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular-route": "^1.7.5",
+    "angular": "^1.7.5",
+    "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Bulmer",
+  "license": "MIT"
+}
