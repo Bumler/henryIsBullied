@@ -1,0 +1,40 @@
+.background {
+    background-color: #dee8eb;
+}
+
+.attack-text{
+    font-family: 'Special Elite', cursive;
+}
+
+.henry-text{
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #6e99aa;
+}
+
+.big-top-mar {
+    margin-top: 50px;
+}
+
+.top-mar {
+    margin-top: 25px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+}
+
+.attack {
+    font-family: 'Special Elite', cursive;
+}
+
+.attack-message {
+    background-color: red;
+}

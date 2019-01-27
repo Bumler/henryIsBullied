@@ -1,11 +1,10 @@
 {
   "name": "henryisbullied",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
-    "angular-route": "^1.7.5",
     "angular": "^1.7.5",
+    "angular-route": "^1.7.5",
     "bootstrap": "^4.2.1"
   },
   "devDependencies": {},
@@ -13,5 +12,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Henry Bulmer",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bumler/henryIsBullied.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bumler/henryIsBullied/issues"
+  },
+  "homepage": "https://github.com/Bumler/henryIsBullied#readme",
+  "description": ""
 }
